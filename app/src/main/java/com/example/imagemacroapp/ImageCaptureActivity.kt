@@ -1,0 +1,1 @@
+// ImageCaptureActivity sample code
