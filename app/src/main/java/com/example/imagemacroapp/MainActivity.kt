@@ -1,1 +1,0 @@
-// MainActivity sample code
